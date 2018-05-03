@@ -14,6 +14,4 @@ public class EstructuraCondicionalCompuesta1 {
 			System.out.println(num2);
 		} teclado.close();
 	}
-
 }
-
