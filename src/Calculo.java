@@ -10,8 +10,8 @@ public class Calculo {
         System.out.print("Ingrese la cantidad de horas trabajadas por el empleado:");
         horasTrabajadas=teclado.nextInt();
         System.out.print("Ingrese el valor de la hora:");
-        costoHora=teclado.nextFloat();
-        sueldo=horasTrabajadas * costoHora;
+        costoHora = teclado.nextFloat();
+        sueldo = horasTrabajadas * costoHora;
         System.out.print("El empleado debe cobrar:");
         System.out.print(sueldo);
         teclado.close();
