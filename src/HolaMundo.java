@@ -2,6 +2,6 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("Lección 6 del curso https://www.tutorialesprogramacionya.com/javaya/ ");
+		System.out.println("Lección 9 del curso https://www.tutorialesprogramacionya.com/javaya/ ");
 	}
 }
