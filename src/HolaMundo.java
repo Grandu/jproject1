@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 // For check only
 public class HolaMundo {
 
