@@ -17,7 +17,7 @@ public class HolaMundo {
  * T8.- EstructuraCondicionalAnidada1 , EstructuraCondicionalAnidada2 , EstructuraCondicionalAnidada3 , EstructuraCondicionalAnidada4 , EstructuraCondicionalAnidada5  
  * T9.- CondicionesCompuestas1 , CondicionesCompuestas2 , CondicionesCompuestas3 , CondicionesCompuestas4 , CondicionesCompuestas5, CondicionesCompuestas6 , CondicionesCompuestas7 , CondicionesCompuestas8 , CondicionesCompuestas9 
  * T10.- EstructuraRepetitivaWhile1 , EstructuraRepetitivaWhile2 , EstructuraRepetitivaWhile3 , EstructuraRepetitivaWhile4 , EstructuraRepetitivaWhile5, EstructuraRepetitivaWhile6, EstructuraRepetitivaWhile7, EstructuraRepetitivaWhile8
- * T11.-
+ * T11.- EstructuraRepetitivaFor1 , EstructuraRepetitivaFor2, EstructuraRepetitivaFor3, EstructuraRepetitivaFor4  
  * T12.-
  * T13.-
  * T14.-
