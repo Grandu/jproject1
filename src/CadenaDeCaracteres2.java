@@ -18,7 +18,7 @@ public class CadenaDeCaracteres2 {
 		edad2 = teclado.nextInt();
 		
 				
-		System.out.print("La persona de mayor edad es:");
+		System.out.print("La persona de mayor edad es: ");
 		if( edad1 > edad2 ) {
 			System.out.print(apenom1);
 		} else {
