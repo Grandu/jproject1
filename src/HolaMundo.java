@@ -19,8 +19,8 @@ public class HolaMundo {
  * T10.- EstructuraRepetitivaWhile1 , EstructuraRepetitivaWhile2 , EstructuraRepetitivaWhile3 , EstructuraRepetitivaWhile4 , EstructuraRepetitivaWhile5, EstructuraRepetitivaWhile6, EstructuraRepetitivaWhile7, EstructuraRepetitivaWhile8
  * T11.- EstructuraRepetitivaFor1 , EstructuraRepetitivaFor2, EstructuraRepetitivaFor3, EstructuraRepetitivaFor4  
  * T12.-
- * T13.-
- * T14.-
+ * T13.- CadenaDeCaracteres1, CadenaDeCaracteres2, CadenaDeCaracteres3
+ * T14.- Persona, Triangulo, 
  * T15.-
  * T16.-
  * T17.-
