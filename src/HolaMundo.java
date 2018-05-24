@@ -20,12 +20,12 @@ public class HolaMundo {
  * T11.- EstructuraRepetitivaFor1 , EstructuraRepetitivaFor2, EstructuraRepetitivaFor3, EstructuraRepetitivaFor4  
  * T12.-
  * T13.- CadenaDeCaracteres1, CadenaDeCaracteres2, CadenaDeCaracteres3
- * T14.- Persona, Triangulo, 
- * T15.-
- * T16.-
+ * T14.- Persona, Triangulo, Punto
+ * T15.- TablaMultiplicar 
+ * T16.- PruebaVector1 , 
  * T17.-
  * T18.-
  * T19.-
  * T20.-
  *  
- */
+ *
