@@ -26,9 +26,9 @@ public class HolaMundo {
  * T13.- CadenaDeCaracteres1, CadenaDeCaracteres2, CadenaDeCaracteres3
  * T14.- Persona, Triangulo, Punto
  * T15.- TablaMultiplicar 
- * T16.- PruebaVector1 , 
- * T17.-
- * T18.-
+ * T16.- PruebaVector1 , PruebaVector2, PruebaVector3 
+ * T17.- PruebaVector8
+ * T18.- PruebaVector10
  * T19.-
  * T20.-
  *  

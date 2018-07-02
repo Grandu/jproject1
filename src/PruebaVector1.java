@@ -7,7 +7,7 @@ public class PruebaVector1 {
     public void cargar()
     {
         teclado = new Scanner(System.in);
-        sueldos = new int[5];
+        sueldos = new int[5]; //indicamos entre corchetes la cantidad de elementos del vector
         for(int f = 0; f < 5; f++) {
             System.out.print("Ingrese valor del sueldo:");
             sueldos[f] = teclado.nextInt();
